@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Регистрация</title>
+  <meta http-equiv="refresh" content="0; url=https://partners.mostbet.com/registration?yourParameters">
+</head>
+<body>
+  <p>Подождите, идет перенаправление...</p>
+</body>
+</html>
