@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Регистрация</title>
-  <meta http-equiv="refresh" content="0; url=https://partners.mostbet.com/registration?yourParameters">
+  <meta http-equiv="refresh" content="0; url=https://betoholictrack.net/hdujLSZO?sub_id=%7Bclick_id%7D">
 </head>
 <body>
   <p>Подождите, идет перенаправление...</p>
